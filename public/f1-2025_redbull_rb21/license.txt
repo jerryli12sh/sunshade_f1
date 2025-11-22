@@ -1,0 +1,11 @@
+Model Information:
+* title:	F1-2025 Redbull RB21
+* source:	https://sketchfab.com/3d-models/f1-2025-redbull-rb21-1eca853cad0e4d2f8f23c3ca0c8e2b82
+* author:	MattsActuallyUsefulModels (https://sketchfab.com/MattsActuallyUsefulModels)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F1-2025 Redbull RB21" (https://sketchfab.com/3d-models/f1-2025-redbull-rb21-1eca853cad0e4d2f8f23c3ca0c8e2b82) by MattsActuallyUsefulModels (https://sketchfab.com/MattsActuallyUsefulModels) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
