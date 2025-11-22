@@ -109,7 +109,7 @@ function App() {
 
     // B. 加载 F1 赛车
     const loader = new GLTFLoader();
-    const f1Url = "/f1-2025_redbull_rb21/scene.gltf"; // 保持你的路径
+    const f1Url = "/sunshade_f1/f1-2025_redbull_rb21/scene.gltf"; // 保持你的路径
 
     loader.load(f1Url, (gltf) => {
         const model = gltf.scene;
